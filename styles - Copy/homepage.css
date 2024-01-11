@@ -1,0 +1,1227 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.homepage-bBa {
+  width: 100%;
+  height: 529.3rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #faf6ff;
+}
+.homepage-bBa .auto-group-mlhj-pKE {
+  width: 409.9757rem;
+  height: 328.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .background-graphics--tTW {
+  opacity: 0.2;
+  width: 409.9757rem;
+  height: 216.7238rem;
+  position: absolute;
+  left: 0;
+  top: 97.5199rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-bBa .auto-group-mlhj-pKE .header-NtU {
+  width: 192rem;
+  height: 99.5625rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.homepage-bBa .auto-group-mlhj-pKE .header-NtU .frame-31-GU4 {
+  width: 17.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 150.5rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.homepage-bBa .auto-group-mlhj-pKE .header-NtU .frame-31-GU4 .twitter-Zxx {
+  margin: 0rem 2.5rem 0rem 0rem;
+  width: 2.5rem;
+  height: 2.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .header-NtU .frame-31-GU4 .facebook-5gQ {
+  margin: 0rem 2.5rem 0.003rem 0rem;
+  width: 2.5rem;
+  height: 2.4973rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .header-NtU .frame-31-GU4 .instagram-1a4 {
+  margin-right: 2.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .header-NtU .frame-31-GU4 .linkedin-7d6 {
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .header-NtU .item-5-1-2k4 {
+  width: 192rem;
+  height: 90rem;
+  position: absolute;
+  left: 0;
+  top: 11.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.homepage-bBa .auto-group-mlhj-pKE .header-NtU .logo-9pg {
+  width: 11.4rem;
+  height: 10.5109rem;
+  position: relative;
+  left: 24rem;
+  top: 0.7rem;
+  background-size: 187.175% 203.008%;
+  background-position: -5.1172rem -4.3466rem;
+  background-image: url('../assets/logo.png');
+}
+.homepage-bBa .auto-group-mlhj-pKE .header-NtU .rectangle-17-DpY {
+  width: 202.4rem;
+  height: 92.6rem;
+  position: absolute;
+  left: -0.1rem;
+  top: 11rem;
+  border: solid 0.4rem #000000;
+  box-sizing: border-box;
+}
+.homepage-bBa .auto-group-mlhj-pKE .header-NtU .rectangle-32-Kcg {
+  width: 0.5rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 23.2rem;
+  top: 35.4032rem;
+  background-color: #d9d9d9;
+}
+.homepage-bBa .auto-group-mlhj-pKE .home-Xye {
+  width: 31.7rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 24.1rem;
+  top: 35.4rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.homepage-bBa .auto-group-mlhj-pKE .about-us-xp4 {
+  width: 37.7rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 24.1rem;
+  top: 43.2rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.200000003);
+}
+.homepage-bBa .auto-group-mlhj-pKE .course-FHN {
+  width: 35.6rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 24.1rem;
+  top: 51rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.200000003);
+}
+.homepage-bBa .auto-group-mlhj-pKE .contact-us-button-vPW {
+  width: 41.4rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 24.1rem;
+  top: 58.9rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.200000003);
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 {
+  width: 188.4311rem;
+  height: 108.4909rem;
+  position: absolute;
+  left: 0;
+  top: 126.6091rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG {
+  width: 179.7311rem;
+  height: 108.4909rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-2L4 {
+  width: 140.7rem;
+  height: 38.7rem;
+  position: absolute;
+  left: 18.9rem;
+  top: 69.7909rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-2L4 .rectangle-3-Z56 {
+  width: 132.2rem;
+  height: 34rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 3.3rem;
+  box-shadow: 0 6.9rem 11.4rem rgba(124, 20, 253, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-2L4 .group-14-Bkg {
+  width: 132rem;
+  height: 38.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-2L4 .group-14-Bkg .who-can-join-j1W {
+  width: 24.4rem;
+  height: 5rem;
+  position: absolute;
+  left: 47rem;
+  top: 9.1rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3719999525;
+  color: #7c14fd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-2L4 .group-14-Bkg .settings-1-EDA {
+  width: 51.6rem;
+  height: 38.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-2L4 .group-14-Bkg .youth-aged-15-28-from-all-educational-backgrounds-are-invited-to-join-skill2employs-transformative-skill-development-whether-youre-a-recent-graduate-or-seeking-enhanced-employability-skill2employ-is-your-pathway-to-success-embrace-opportunities-and-thrive-in-the-evolving-professional-landscape-with-us-ZmE {
+  width: 84.9rem;
+  height: 15.4rem;
+  position: absolute;
+  left: 47.1rem;
+  top: 17.5rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.7069999907;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-2L4 .group-14-Bkg .rectangle-4-7gG {
+  width: 24.3rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 47.1rem;
+  top: 15.6rem;
+  background: linear-gradient(89.99deg, #7c14fd 1.09%, rgba(124, 20, 253, 0.2899999917) 99.99%);
+  border-radius: 100rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-2L4 .group-14-Bkg .item-03-Ns6 {
+  width: 19.5rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 0.8rem;
+  font-size: 14.4rem;
+  font-weight: 700;
+  line-height: 0.4520000352;
+  color: #7c14fd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-U9S {
+  width: 110.9rem;
+  height: 35.8rem;
+  position: absolute;
+  left: 65.3rem;
+  top: 40.7909rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-U9S .rectangle-3-bjr {
+  width: 104.8rem;
+  height: 32.2rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 1.1rem;
+  box-shadow: 0 6.9rem 11.4rem rgba(124, 20, 253, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-U9S .group-14-6Ri {
+  width: 95.3rem;
+  height: 35.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-U9S .group-14-6Ri .web-development-1-2qA {
+  margin: 0rem 6.329rem 4.86rem 0rem;
+  width: 38.2707rem;
+  height: 30.9398rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-U9S .group-14-6Ri .auto-group-nbdn-whE {
+  margin: 7rem 0rem 8.1rem 0rem;
+  height: calc(100% - 15.1rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-U9S .group-14-6Ri .auto-group-nbdn-whE .benefit-41A {
+  margin-bottom: 1.5rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3719999525;
+  color: #7c14fd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-U9S .group-14-6Ri .auto-group-nbdn-whE .rectangle-4-akC {
+  margin: 0rem 0rem 1.6rem 0.1rem;
+  width: 12.6rem;
+  height: 0.3rem;
+  background: linear-gradient(89.99deg, #7c14fd 1.09%, rgba(124, 20, 253, 0.2899999917) 99.99%);
+  border-radius: 100rem;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-U9S .group-14-6Ri .auto-group-nbdn-whE .unlocking-potential-through-skill2employ-elevating-training-to-real-world-employability-join-us-on-a-journey-where-learning-paves-the-way-to-fulfilling-careers-creating-a-bridge-from-skill-development-to-successful-employment-fWk {
+  margin-left: 0.1rem;
+  max-width: 50.6rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.7069999907;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx {
+  width: 169.4311rem;
+  height: 55.8195rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .rectangle-3-R8Y {
+  width: 138.5rem;
+  height: 32.2rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 10.6909rem;
+  box-shadow: 0 6.9rem 11.4rem rgba(124, 20, 253, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS {
+  width: 166.9311rem;
+  height: 55.8195rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-13-Tb2 {
+  width: 96.8397rem;
+  height: 55.8195rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-13-Tb2 .rectangle-NT6 {
+  width: 37.9669rem;
+  height: 28.4264rem;
+  position: relative;
+  left: 25.8884rem;
+  top: 13.6741rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/rectangle.png');
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-13-Tb2 .flooring-s8x {
+  width: 24.4082rem;
+  height: 14.2595rem;
+  position: absolute;
+  left: 31.4446rem;
+  top: 25.3314rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-13-Tb2 .sidedash-bak {
+  width: 9.8942rem;
+  height: 8.4951rem;
+  position: absolute;
+  left: 36.0172rem;
+  top: 17.839rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-13-Tb2 .lady-w8p {
+  width: 10.3249rem;
+  height: 7.6343rem;
+  position: absolute;
+  left: 38.4067rem;
+  top: 22.8398rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-13-Tb2 .robot2-g6Q {
+  width: 13.6802rem;
+  height: 17.4233rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 13.9909rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-13-Tb2 .robot1-D6L {
+  width: 20.1334rem;
+  height: 11.3753rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 13.9909rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-13-Tb2 .machine-9Et {
+  width: 23.9042rem;
+  height: 21.1548rem;
+  position: absolute;
+  left: 35.5958rem;
+  top: 16.5013rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-13-Tb2 .box-HM6 {
+  width: 13.9015rem;
+  height: 9.0118rem;
+  position: absolute;
+  left: 38.118rem;
+  top: 23.611rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-13-Tb2 .item-01-oqE {
+  width: 17rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 23.1rem;
+  top: 8.1909rem;
+  font-size: 14.4rem;
+  font-weight: 700;
+  line-height: 0.4520000352;
+  color: #7c14fd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-14-WUk {
+  box-sizing: border-box;
+  padding-bottom: 0.1rem;
+  width: 97.5rem;
+  height: 23.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 17.9909rem;
+  border-radius: 100rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-14-WUk .goal-2T6 {
+  margin-bottom: 1.5rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3719999525;
+  color: #7c14fd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-14-WUk .rectangle-4-mQg {
+  margin: 0rem 0rem 1.6rem 0.1rem;
+  width: 7.9rem;
+  height: 0.3rem;
+  background: linear-gradient(89.99deg, #7c14fd 1.09%, rgba(124, 20, 253, 0.2899999917) 99.99%);
+  border-radius: 100rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .group-14-WUk .skill2employ-is-dedicated-to-empowering-youth-through-comprehensive-skill-development-we-aim-to-bridge-the-gap-between-education-and-employment-by-providing-practical-courses-in-communication-it-literacy-soft-skills-and-automation-our-commitment-to-a-100-job-guarantee-underscores-our-belief-in-the-transformative-power-of-acquiring-real-world-skills-join-us-on-this-journey-where-we-unlock-potential-cultivate-talent-and-guide-individuals-toward-a-future-marked-by-confidence-and-career-success-Fqe {
+  margin-left: 0.1rem;
+  max-width: 97.3rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.7069999907;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .group-21-HtG .group-16-gAx .group-15-idS .rectangle-4-jeL {
+  width: 8.9rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 93.5rem;
+  top: 3.3909rem;
+  background: linear-gradient(89.99deg, #7c14fd 1.09%, rgba(124, 20, 253, 0.2899999917) 99.99%);
+  border-radius: 100rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .goal-benefit-join-C68 .item-02-E5J {
+  width: 19rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 165.9rem;
+  top: 39.7909rem;
+  font-size: 14.4rem;
+  font-weight: 700;
+  line-height: 0.4520000352;
+  color: #7c14fd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-mlhj-pKE .select-a-course-which-best-fits-in-your-needs-from-our-wide-range-of-certifiedcourse-structures-designed-to-deliver-success-vip {
+  width: 98.1rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 47rem;
+  top: 258.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3720000585;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-bBa .auto-group-mlhj-pKE .course-details-A7N {
+  width: 38.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 76.7rem;
+  top: 249.1rem;
+  text-align: center;
+  font-size: 5.2rem;
+  font-weight: 700;
+  line-height: 1.372000034;
+  color: #0019ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-mlhj-pKE .skill2employs-mission-is-to-empower-individuals-by-providing-comprehensive-skill-development-programs-bridging-the-gap-between-education-and-meaningful-employment-we-envision-a-future-where-every-participant-emerges-with-practical-skills-and-confidence-ready-to-excel-in-the-dynamic-professional-landscape-fK2 {
+  width: 141rem;
+  height: 24.6rem;
+  position: absolute;
+  left: 25.2rem;
+  top: 111.2rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.7070000966;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-bBa .auto-group-mlhj-pKE .our-mission-eRr {
+  width: 30.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 78.2rem;
+  top: 108.1rem;
+  text-align: center;
+  font-size: 5.2rem;
+  font-weight: 700;
+  line-height: 1.372000034;
+  color: #000aff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-mlhj-pKE .kyp-ZYp {
+  box-sizing: border-box;
+  padding: 2.5rem 1.906rem 1.4rem 1.9rem;
+  width: 47.2rem;
+  height: 56.8rem;
+  position: absolute;
+  left: 24rem;
+  top: 271.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fff8f8;
+  border-radius: 1.5rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .kyp-ZYp .kyp-e4U {
+  margin-bottom: 0.9927rem;
+  width: 43.3944rem;
+  height: 28.5073rem;
+  position: relative;
+  background-size: 140.146% 100%;
+  background-position: -8.6472rem 0;
+  background-image: url('../assets/kyp.png');
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .kyp-ZYp .kushal-yuva-programkyp-jLp {
+  margin: 0rem 0rem 0.3rem 0.106rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3720000131;
+  color: #0024e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .kyp-ZYp .the-scheme-kushal-yuva-programkyp-is-a-skill-training-programme-launched-by-the-bihar-skill-development-mission-bsdm-it-is-a-part-of-one-of-the-7-nishchay-schemes-of-the-government-of-bihar-2Kv {
+  margin: 0rem 0rem 0.1rem 0.906rem;
+  max-width: 41.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3719999525;
+  color: #004d11;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .kyp-ZYp .frame-34-rJx {
+  margin: 0rem 15.794rem 0rem 15.9rem;
+  width: calc(100% - 31.6944rem);
+  height: 4.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.371999979;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #dffdeb;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .ccc-38Y {
+  box-sizing: border-box;
+  padding: 2.5rem 1.906rem 1.4rem 1.9rem;
+  width: 47.2rem;
+  height: 56.8rem;
+  position: absolute;
+  left: 72.4rem;
+  top: 271.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fff8f8;
+  border-radius: 1.5rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .ccc-38Y .kyp-JqA {
+  margin-bottom: 0.9927rem;
+  width: 43.3944rem;
+  height: 28.5073rem;
+  position: relative;
+  background-size: 140.146% 100%;
+  background-position: -8.6472rem 0;
+  background-image: url('../assets/kyp-tx4.png');
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .ccc-38Y .course-on-computer-concepts-zhz {
+  margin: 0rem 0rem 0.3rem 0.106rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3720000131;
+  color: #0024e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .ccc-38Y .ccc-iscourse-on-computer-concepts-national-electronics-information-technology-institute-is-working-under-the-ministry-of-electronics-information-technology-govt-india-is-implementing-the-ccc-system-for-the-common-people-71v {
+  margin: 0rem 0rem 0.1rem 0.806rem;
+  max-width: 41.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3719999525;
+  color: #004d11;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .ccc-38Y .frame-34-Wpk {
+  margin: 0rem 15.794rem 0rem 15.9rem;
+  width: calc(100% - 31.6944rem);
+  height: 4.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.371999979;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #dffdeb;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .automation-8r8 {
+  box-sizing: border-box;
+  padding: 2.5rem 1.8rem 0.8rem 1.9rem;
+  width: 47.2rem;
+  height: 56.8rem;
+  position: absolute;
+  left: 120.8rem;
+  top: 271.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fff8f8;
+  border-radius: 1.5rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .automation-8r8 .kyp-RaL {
+  margin: 0rem 0.106rem 0.993rem 0rem;
+  width: 43.3944rem;
+  height: 28.5073rem;
+  position: relative;
+  background-size: 140.146% 100%;
+  background-position: -8.6472rem 0;
+  background-image: url('../assets/kyp-Fik.png');
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .automation-8r8 .automation-Wbn {
+  margin: 0rem 0.1rem 0.3rem 0rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3720000131;
+  color: #0024e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .automation-8r8 .auto-group-crfs-2KE {
+  margin-left: 1.4rem;
+  width: 42.1rem;
+  height: 19.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-mlhj-pKE .automation-8r8 .auto-group-crfs-2KE .the-technique-of-making-an-apparatus-a-process-or-a-system-operate-automatically-we-define-automation-as-the-creation-and-application-of-technology-to-monitor-and-control-the-production-and-delivery-of-products-and-services-N8C {
+  width: 42.1rem;
+  height: 19.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3719999525;
+  color: #004d11;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-bBa .auto-group-mlhj-pKE .automation-8r8 .auto-group-crfs-2KE .frame-34-nhi {
+  width: 11.7rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 14.5rem;
+  top: 15rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.371999979;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #dffdeb;
+  border-radius: 2.5rem;
+}
+.homepage-bBa .auto-group-mlhj-pKE .call-me-button-Nfv {
+  width: 35.6rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 112.7rem;
+  top: 2.8rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0300bc;
+  border-radius: 21.8rem;
+}
+.homepage-bBa .auto-group-uw1z-31N {
+  width: 409.9757rem;
+  height: 216.7238rem;
+  position: absolute;
+  left: 0;
+  top: 328.4199rem;
+}
+.homepage-bBa .auto-group-uw1z-31N .background-graphics--N3e {
+  opacity: 0.2;
+  width: 409.9757rem;
+  height: 216.7238rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-bBa .auto-group-uw1z-31N .our-commitment--6EY {
+  width: 144.1rem;
+  height: 59.0392rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 8.6366rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.homepage-bBa .auto-group-uw1z-31N .our-commitment--6EY .auto-group-23re-cTn {
+  margin-bottom: 0.1968rem;
+  width: 100%;
+  height: 20.857rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-uw1z-31N .our-commitment--6EY .auto-group-23re-cTn .rectangle-19-9ic {
+  width: 144rem;
+  height: 12.4945rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  background-color: #ff8900;
+}
+.homepage-bBa .auto-group-uw1z-31N .our-commitment--6EY .auto-group-23re-cTn .our-commitment-giY {
+  width: 43.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 50.2rem;
+  top: 2.7547rem;
+  text-align: center;
+  font-size: 5.2rem;
+  font-weight: 700;
+  line-height: 1.372000034;
+  color: #fffbfb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .our-commitment--6EY .auto-group-23re-cTn .our-commitment-img-BfJ {
+  width: 20rem;
+  height: 19.6764rem;
+  position: relative;
+  left: 0;
+  top: 1.1806rem;
+  background-size: 204.473% 100%;
+  background-position: -10.5431rem 0;
+  background-image: url('../assets/our-commitment-img.png');
+  border-radius: 10rem;
+}
+.homepage-bBa .auto-group-uw1z-31N .our-commitment--6EY .auto-group-xzlu-T72 {
+  margin-left: 0.1rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-uw1z-31N .our-commitment--6EY .auto-group-xzlu-T72 .at-skill2employ-our-commitment-is-unwaveringto-empower-individuals-through-transformative-skill-development-ensuring-a-seamless-transition-from-learning-to-meaningful-employment-we-pledge-to-provide-inclusive-quality-programs-that-unlock-potential-cultivate-talent-and-pave-the-way-for-a-brighter-and-more-confident-future-bDE {
+  margin-right: 2.3rem;
+  max-width: 61.2rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3719999949;
+  color: #0034ef;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-uw1z-31N .our-commitment--6EY .auto-group-xzlu-T72 .our-commitment-img-2-La8 {
+  margin-bottom: 0.8616rem;
+  width: 80.5rem;
+  height: 37.1238rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-uw1z-31N .get-trend-for-employment-4W8 {
+  width: 144.4rem;
+  height: 61.4rem;
+  position: absolute;
+  left: 23.6rem;
+  top: 83.8801rem;
+}
+.homepage-bBa .auto-group-uw1z-31N .get-trend-for-employment-4W8 .get-tend-z8t {
+  width: 144rem;
+  height: 61.4rem;
+  position: relative;
+  left: 0.4rem;
+  top: 0;
+  background-size: 100% 101.657%;
+  background-position: 0 -1.1559rem;
+  background-image: url('../assets/get-tend.png');
+}
+.homepage-bBa .auto-group-uw1z-31N .get-trend-for-employment-4W8 .rectangle-20-hJC {
+  opacity: 0.7;
+  width: 144rem;
+  height: 61.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.6999999881);
+}
+.homepage-bBa .auto-group-uw1z-31N .get-trend-for-employment-4W8 .get-trend-for-employment-Rjz {
+  width: 66.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 34rem;
+  top: 17.1rem;
+  text-align: center;
+  font-size: 5.2rem;
+  font-weight: 700;
+  line-height: 1.372000034;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .get-trend-for-employment-4W8 .navigate-the-evolving-job-landscape-with-skill2employs-insightful-employment-trends-uncover-opportunities-stay-informed-and-propel-your-career-forward-embrace-the-future-of-work-with-confidence-and-knowledge-your-journey-to-professional-success-starts-here-LMA {
+  width: 133.3rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 26.4rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.3719999949;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 {
+  box-sizing: border-box;
+  padding: 2.917rem 0rem 3.031rem 0rem;
+  width: 192rem;
+  height: 41.3416rem;
+  position: absolute;
+  left: 0;
+  top: 160.3801rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fdf8ee;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv {
+  margin-bottom: 0.4475rem;
+  width: 100%;
+  height: 32.6458rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .welcome-to-skill2employ-where-empowerment-meets-opportunity-established-in-2023-skill2employ-is-not-just-a-platform-for-skill-development-its-a-catalyst-for-transforming-lives-and-paving-the-way-for-a-brighter-future-xWx {
+  width: 31.9rem;
+  height: 24.8rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 7.8458rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.6315789474;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-85-Ad2 {
+  width: 13.1rem;
+  height: 22.9205rem;
+  position: absolute;
+  left: 66.1rem;
+  top: 1.6094rem;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-85-Ad2 .company-HxY {
+  margin-bottom: 2.8341rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #00052e;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-85-Ad2 .about-us-EMz {
+  margin-bottom: 2.6288rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-85-Ad2 .how-to-work-NDJ {
+  margin-bottom: 2.6288rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-85-Ad2 .populer-course-uU8 {
+  margin: 0rem 0rem 2.629rem 0.1rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-85-Ad2 .service-2Hr {
+  margin-left: 0.1rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-91-A9A {
+  width: 10rem;
+  height: 22.7193rem;
+  position: absolute;
+  left: 118.5rem;
+  top: 1.6094rem;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-91-A9A .support-HDn {
+  margin-bottom: 2.8341rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #00052e;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-91-A9A .faq-pjW {
+  margin-bottom: 2.6288rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-91-A9A .help-center-AoN {
+  margin-bottom: 2.5282rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-91-A9A .career-ukx {
+  margin: 0rem 0rem 2.528rem 0.1rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-91-A9A .privacy-2Kn {
+  margin-left: 0.1rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-93-Msr {
+  width: 11.4rem;
+  height: 17.8911rem;
+  position: absolute;
+  left: 91.7rem;
+  top: 1.6094rem;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-93-Msr .courses-gv8 {
+  margin-bottom: 2.8341rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #00052e;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-93-Msr .categories-dKa {
+  margin-bottom: 2.6288rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-93-Msr .ofline-course-Zj2 {
+  margin-bottom: 2.5282rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-93-Msr .vidio-course-JRi {
+  margin-left: 0.1rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-92-SXv {
+  width: 27.6rem;
+  height: 24.6917rem;
+  position: absolute;
+  left: 141rem;
+  top: 1.6094rem;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-92-SXv .contac-info-NAg {
+  margin-bottom: 2.8341rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #00052e;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-92-SXv .item-91-8529126774-JKE {
+  margin-bottom: 2.6288rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-92-SXv .usergmailcom-Dh6 {
+  margin-bottom: 2.6288rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .group-92-SXv .nd-floor-radhe-krishna-villa-telecom-colony-near-t-point-east-gola-road-danapur-patna-bihar-801503-kwv {
+  max-width: 27.6rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .line-4-SZr {
+  width: 192rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 30.981rem;
+  background-color: #b6b6b6;
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .auto-group-qw9e-Rmv .item-3-1-BnL {
+  width: 6.2476rem;
+  height: 5.1819rem;
+  position: relative;
+  left: 23rem;
+  top: 0.183rem;
+  background-size: 180.602% 217.742%;
+  background-position: -2.4969rem -2.591rem;
+  background-image: url('../assets/.png');
+}
+.homepage-bBa .auto-group-uw1z-31N .group-237656-w64 .skill2employ-all-right-reserved-2024-fhW {
+  margin-left: 11.9rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-bBa .group-237657-nXE {
+  width: 11.3302rem;
+  height: 24.9rem;
+  position: absolute;
+  left: 180.8rem;
+  top: 43.9rem;
+}
+.homepage-bBa .group-237657-nXE .call-icon-Wy2 {
+  margin-bottom: 2.3668rem;
+  width: 11.2rem;
+  height: 11.0332rem;
+  position: relative;
+  background-size: 229.787% 233.261%;
+  background-position: -7.2443rem -6.0528rem;
+  background-image: url('../assets/call-icon.png');
+  border-radius: 5.5166rem;
+}
+.homepage-bBa .group-237657-nXE .whats-app-icon-DcY {
+  width: 11.3302rem;
+  height: 11.5rem;
+  position: relative;
+  background-size: 231.263% 227.848%;
+  background-position: -7.3998rem -7.4241rem;
+  background-image: url('../assets/whats-app-icon.png');
+  border-radius: 1.8681rem;
+}
